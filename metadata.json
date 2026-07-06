@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Countdown & Surprise",
+  "description": "An interactive, romantic countdown and surprise journey for Khush.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
